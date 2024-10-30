@@ -1,0 +1,1 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; ?><link rel='<?= empty( $rel ) ? 'stylesheet' : $rel; ?>' id='<?= $handle; ?>-css' href='<?= $src; ?>' type='<?= empty( $type ) ? 'text/css' : $type; ?>' media='<?= $handle; ?>' />

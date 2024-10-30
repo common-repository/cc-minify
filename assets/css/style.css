@@ -1,0 +1,8 @@
+#wpadminbar #wp-admin-bar-minify .ab-icon:before {
+    content: '\f321';
+    top: 3px;
+}
+
+#menu-settings #minify {
+   line-height: 1.5;
+}

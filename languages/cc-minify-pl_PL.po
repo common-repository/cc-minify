@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cc-minify\n"
+"POT-Creation-Date: 2016-11-07 16:32+0100\n"
+"PO-Revision-Date: 2016-11-07 16:35+0100\n"
+"Last-Translator: Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language-Team: Clearcode | Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/files.php:79
+msgid "Wrong response code"
+msgstr "Błędny kod odpowiedzi serwera"
+
+#: includes/minify.php:48
+msgid "Error"
+msgstr "Błąd"
+
+#: includes/minify.php:49
+msgid "Class"
+msgstr "Klasa"
+
+#: includes/minify.php:50
+msgid "Function"
+msgstr "Funkcja"
+
+#: includes/minify.php:62 includes/settings.php:132
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/settings.php:57
+#, php-format
+msgid "Dir: %s does not exists!"
+msgstr "Folder: %s nie istnieje!"
+
+#: includes/settings.php:58
+#, php-format
+msgid "Dir: %s is not readable!"
+msgstr "Folder: %s nie posiada uprawnień do odczytu!"
+
+#: includes/settings.php:59
+#, php-format
+msgid "Dir: %s is not writable!"
+msgstr "Folder: %s nie posiada uprawnień do zapisu!"
+
+#: includes/settings.php:61
+msgid "Server not supports URL rewriting."
+msgstr "Serwer nie obsługuje przepisywania adresów."
+
+#: includes/settings.php:66
+msgid "Minify Settings"
+msgstr "Ustawienia minifikowania"
+
+#: includes/settings.php:69 includes/settings.php:79 includes/settings.php:125
+#: includes/settings.php:170
+msgid "Minify"
+msgstr "Minifikowanie"
+
+#: includes/settings.php:116
+msgid "Add the following rules at the beginning of this file"
+msgstr "Dodaj poniższe reguły na początku tego pliku"
+
+#: includes/settings.php:127
+msgid "Styles"
+msgstr "Style"
+
+#: includes/settings.php:127
+msgid "Scripts"
+msgstr "Skrypty"
+
+#: includes/settings.php:171
+msgid "To exclude"
+msgstr "Aby wykluczyć"
+
+#: includes/settings.php:172 includes/settings.php:187
+#: includes/settings.php:199
+msgid "use filter"
+msgstr "użyj filtra"
+
+#: includes/settings.php:179
+msgid "Rewrite"
+msgstr "Przepisz"
+
+#: includes/settings.php:182
+msgid "to"
+msgstr "na"
+
+#: includes/settings.php:185 includes/settings.php:197
+msgid "To change"
+msgstr "Aby zmienić"
+
+#: includes/settings.php:186
+msgid "url"
+msgstr "adres"
+
+#: includes/settings.php:194
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: includes/settings.php:198
+msgid "dir"
+msgstr "katalog"
+
+#~ msgid "Popup"
+#~ msgstr "Wyskakujące okienko"
+
+#~ msgid "Select"
+#~ msgstr "Wybierz"
+
+#~ msgid "Post Types"
+#~ msgstr "Typy Wpisów"
+
+#~ msgid "Deleted"
+#~ msgstr "Usunięty"
+
+#~ msgid "Password protected"
+#~ msgstr "Zabezpieczony hasłem"
+
+#~ msgid "Included"
+#~ msgstr "Dołączony"
+
+#~ msgid "Popups"
+#~ msgstr "Wyskakujące okienka"
